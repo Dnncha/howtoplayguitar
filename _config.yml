@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       How To Play Guitar
+email:       dnncha@gmail.com
+author:      Donncha O'Toole
+description: "I taught myself to play guitar. You can too. "
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://howtoplayguitar.xyz"
 
 # Google analytics
 google_analytics:
