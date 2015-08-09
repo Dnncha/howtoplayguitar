@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donncha.xyz</title>
+    <description>A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.</description>
+    <link>http://donncha.xyz/</link>
+    <atom:link href="http://donncha.xyz/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Where can I find Wordpress themes?</title>
+        <description>&lt;p&gt;You can get Wordpress themes for free, or you can invest in a higher quality, premium theme. The premium themes tend to be a little bit easier to work with, with more customisation options in the dashboard, and they often offer after sale support.  &lt;/p&gt;
+
+&lt;h2 id=&quot;where-can-i-find-themes-for-free&quot;&gt;Where can I find themes for &lt;em&gt;free&lt;/em&gt;?&lt;/h2&gt;
+
+&lt;p&gt;To grab some free themes, head over to &lt;a href=&quot;http://wordpress.org/themes/&quot;&gt;The official Wordpress.org theme directory&lt;/a&gt;.  It’s probably the largest collection of free themes and it is well curated. &lt;/p&gt;
+
+&lt;p&gt;Ideally you want to find a theme that mentions responsive design, so that your site loads up properly on mobile devices. There are loads of these available, so that shouldn’t be too difficult. &lt;/p&gt;
+
+&lt;h2 id=&quot;where-can-i-buy-a-theme&quot;&gt;Where can I &lt;em&gt;buy&lt;/em&gt; a theme?&lt;/h2&gt;
+
+&lt;h3 id=&quot;wordpress-theme-marketplaces&quot;&gt;Wordpress Theme Marketplaces&lt;/h3&gt;
+
+&lt;p&gt;There are huge marketplaces for premium Wordpress themes, here are some of the big ones:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.themeforest.com&quot;&gt;Themeforest&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Themeforest is normally the first marketplace I mention to friends when they are looking for themes. They have a ton of themes and it is easy to preview each theme and look at reviews from customers. Everything in the &lt;a href=&quot;http://themeforest.net/feature&quot;&gt;featured section&lt;/a&gt; is usually rock solid and easy to work with.   Themes here cost roughly from $10 to $80&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.mojo-themes.com/&quot;&gt;Mojo Themes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mojo Themes is very similar to Themeforest, it’s another theme marketplace. The word on the street (I mean internet) is that it’s harder to get themes accepted to Themeforest than Mojo Themes. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;www.woothemes.com&quot;&gt;WooThemes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thethemefoundry.com&quot;&gt;The Theme Foundry&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.elegantthemes.com/&quot;&gt;Elegant Themes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://graphpaperpress.com/&quot;&gt;Graph Paper Press&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.obox-design.com/&quot;&gt;Obox Themes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://okaythemes.com/&quot;&gt;Okay Themes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.organicthemes.com/&quot;&gt;Organic Themes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://press75.com/&quot;&gt;Press75&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 10 Aug 2015 00:00:00 +0100</pubDate>
+        <link>http://donncha.xyz/where-can-i-find-wordpress-themes</link>
+        <guid isPermaLink="true">http://donncha.xyz/where-can-i-find-wordpress-themes</guid>
+      </item>
+    
+      <item>
+        <title>Jekyll vs Wordpress</title>
+        <description>&lt;p&gt;Wordpress is is a truly remarkable package that solves all sorts of problems. It’s an all in one publishing system that I can barely believe is free. However, over the years, I’ve become frustrated with my workflow with it. The network lag while clicking through the dashboard often gets on my nerves when I’ve had a few coffees. I decided I wanted a blog that I could develop and write locally, and had a one button push up to the server. Ideally I’d write some Markdown in Byword, and then have it automatically converted and pushed to the server.&lt;/p&gt;
+
+&lt;p&gt;So what I was looking for, it turns out, was &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jeykll&lt;/a&gt;, running on Github pages. It is a static site generator and it keeps your entire blog in a neat little folder, in text files.&lt;/p&gt;
+
+&lt;h2 id=&quot;its-easy-to-get-set-up&quot;&gt;It’s easy to get set up&lt;/h2&gt;
+
+&lt;p&gt;It doesn’t take long to get Jekyll set up on GitHub Pages, although I guess it might be a confusing  process if you’re not familiar with the command line. 
+If you’ve used Git before, you can get a site up and running on Github Pages in no time. &lt;/p&gt;
+
+&lt;p&gt;Smashing Magazine has &lt;a href=&quot;http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/&quot;&gt;a nice tutorial to get you get Jekyll set up on Github pages.&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After you’ve got that stuff set up, simply grab a theme from &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;Jekyll themes&lt;/a&gt; and you’re off to the races. &lt;/p&gt;
+
+&lt;h2 id=&quot;static-sites-are-performant&quot;&gt;Static sites are performant.&lt;/h2&gt;
+&lt;p&gt;Thanks to Github’s great infrastructure, and the fact that Jekyll doesn’t need to query a database, this site loads up very quickly indeed. If I was running Wordpress on a typical shared host, like &lt;a href=&quot;www.blacknight.com&quot;&gt;Blacknight&lt;/a&gt; or &lt;a href=&quot;www.bluehost.com&quot;&gt;Bluehost&lt;/a&gt;, I’d have to do a bit of work to get anywhere near a 300ms page load.  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://donncha.xyz/images/jekyll_plus_github_pages_equals_fast.png&quot; alt=&quot;Jekyll Speed Test&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;markdown-is-great&quot;&gt;Markdown is great&lt;/h2&gt;
+
+&lt;p&gt;Markdown is my preferred method of writing for the web. If you’ve never heard of it, you can have a look at this &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;handy markdown cheatsheet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’m writing this post in &lt;a href=&quot;www.byword.com&quot;&gt;Byword&lt;/a&gt;, but you could also write your blog in &lt;a href=&quot;www.sublimetext.com&quot;&gt;Sublime Text&lt;/a&gt;, TextEdit or even &lt;a href=&quot;http://agiletortoise.com/drafts/&quot;&gt;Drafts for iOS&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h2 id=&quot;seo-in-jekyll&quot;&gt;SEO in Jekyll&lt;/h2&gt;
+
+&lt;p&gt;Wordpress has Yoast, what does Jekyll have to offer to help you jostle for position in Google? &lt;/p&gt;
+
+&lt;h3 id=&quot;front-matter&quot;&gt;Front Matter&lt;/h3&gt;
+&lt;p&gt;Front Matter lets you easily rewrite your title and meta description, right at the top of your article, in plain text. &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;      &lt;span class=&quot;l-Scalar-Plain&quot;&gt;Jekyll vs Wordpress&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;       &lt;span class=&quot;l-Scalar-Plain&quot;&gt;2015-08-06 23:00:00&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;permalink&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;/jekyll-vs-wordpress&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;summary&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;If you&amp;#39;ve grown tired of blogging in Wordpress, there&amp;#39;s always Jekyll.&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;categories&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;jekyll wordpress blogging cms&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;If you don’t specify a meta description, Jekyll will fall back to your site’s default. I think that this is a much more graceful solution than running a hefty SEO plugin for Wordpress that runs ads in your dashboard. &lt;/p&gt;
+
+&lt;h3 id=&quot;but-isnt-yoast-more-powerful-than-that&quot;&gt;“But isn’t Yoast more powerful than that?”&lt;/h3&gt;
+&lt;p&gt;Yoast generates sitemaps, which is good, but &lt;a href=&quot;https://help.github.com/articles/sitemaps-for-github-pages/&quot;&gt;Jekyll can do that too&lt;/a&gt;.  It lets you rewrite page titles and meta descriptions, but you can do that with Front Matter. &lt;/p&gt;
+
+&lt;p&gt;Yoast does have that fancy content analysis feature - it asks you to specify a keyword and then advises you to plaster it all over the place in your title, in your description etc. &lt;/p&gt;
+
+&lt;p&gt;With SEO, I’ve decided to take Matt Cutts’ advice and forget about nitty gritty SEO tricks and focus on content. If Google uses, say, 200 factors when it ranks a webpage, how big of an SEO boost does Yoast style keyword stuffing really give you? Is the modern googlebot really convinced by seeing the same phrase in the description and the title? &lt;em&gt;Perhaps&lt;/em&gt; it’s more interested in bounce rates and the amount of time the user stays on the site. Those metrics are harder for webmasters to interfere with, and webmasters can’t be trusted not to vote for themselves.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Aug 2015 00:00:00 +0100</pubDate>
+        <link>http://donncha.xyz/jekyll-vs-wordpress</link>
+        <guid isPermaLink="true">http://donncha.xyz/jekyll-vs-wordpress</guid>
+      </item>
+    
+  </channel>
+</rss>
