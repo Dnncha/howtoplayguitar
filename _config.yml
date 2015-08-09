@@ -2,12 +2,12 @@
 title:       Donncha.xyz
 email:       donnchaotoole@gmail.com
 author:      Donncha O'Toole
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: ""
 baseurl:     ""
-url:         "http://donncha.xyz"
+url:         "howtoplayguitar.xyz"
 
 # Google analytics
-google_analytics: UA-66071122-1
+google_analytics: 
 
 
 # Optional features
