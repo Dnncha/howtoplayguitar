@@ -2,12 +2,12 @@
 title:       How To Play Guitar
 email:       dnncha@gmail.com
 author:      Donncha O'Toole
-description: "I taught myself to play guitar. You can too. "
+description: "I taught myself to play guitar. You can too."
 baseurl:     ""
 url:         "http://howtoplayguitar.xyz"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-66137942-1
 
 # Optional features
 animated:           false

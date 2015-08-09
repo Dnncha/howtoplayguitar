@@ -18,6 +18,10 @@ Throw on a [metronome](https://www.metronomeonline.com/) and start grooving with
 
 When I can't quite get a phrase down, or a chord change, the way I get past it is by just playing the same phrase slowly, over and over again. It sounds obvious, and it is, frankly. But it does the job for me. Don't worry about playing the whole thing through from start to finish, unless you are obsessed with [FTL.](http://www.ftlgame.com/)
 
+##Learn to play some blues
+
+Even if you can barely play the guitar at all, you can play a blues song. Well you can create your own unique version anyway. That's a feat in itself. 
+
 
 
 
