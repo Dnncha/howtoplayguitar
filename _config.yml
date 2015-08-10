@@ -2,7 +2,7 @@
 title:       How To Play Guitar
 email:       dnncha@gmail.com
 author:      Donncha O'Toole
-description: "I taught myself to play guitar. You can too."
+description: "I taught myself to play guitar. I'd like to help you learn how to play too. It's pretty easy nowadays with all this technology. "
 baseurl:     ""
 url:         "http://howtoplayguitar.xyz"
 
@@ -17,7 +17,7 @@ show_social_icons:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: focalisewebdesign
 
 # Social icons
 github_username:
