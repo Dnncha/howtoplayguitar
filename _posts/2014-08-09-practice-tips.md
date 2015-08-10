@@ -44,3 +44,7 @@ There are loads of other tuners available there, but I'm quite fond of Guitar Tu
 ![Guitar Tuna Graph](http://a3.mzstatic.com/eu/r30/Purple5/v4/7b/8b/dc/7b8bdc3c-7b94-30ce-4f2a-2925150e722d/screen568x568.jpeg)
 
 It has a metronome built in too, which is pretty handy. 
+
+##Get [Ableton Live](https://www.ableton.com/)
+
+Play around with the demo for a while. Record yourself, and learn a bit about how recording works. You'll be a better musician if you get some idea of how this stuff works, and Ableton Live is nothing but fun as far as I'm concerned. It might look a little hectic at first, but trust me. Fiddle with knobs, listen to what happens, watch some tutorials on YouTube. You'll be addicted in no time.
