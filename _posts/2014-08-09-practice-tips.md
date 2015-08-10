@@ -22,7 +22,13 @@ When I can't quite get a phrase down, or a chord change, the way I get past it i
 
 Even if you can barely play the guitar at all, you can play a blues song. Well you can create your own unique version anyway. That's a feat in itself. 
 
+##Keep it fun
+
+The more fun you have when you play, the more expressive a player you will become.  Play with other people as soon as you can, it is *alot* of fun, and unlike anything you've ever done 
 
 
+##Listen to the greats
+
+Sit back and listen to your favourite guitar solo, imagining how it was played to get that sound. Imagine playing like that yourself. 
 
 
