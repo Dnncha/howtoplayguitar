@@ -16,7 +16,7 @@ Throw on a [metronome](https://www.metronomeonline.com/) and start grooving with
 
 ##Think long term
 
-If you keep playing, you will gradually get better and better. It's hard to transform your playing overnight, but over time you'll conquer any obstacles in your way as long as you keep playing. You don't have to play for hours every day, just 15 minutes a day will get your fingers thinking about the guitar, and your playing will improve over night. 
+If you keep playing, you will gradually get better and better. It's hard to transform your playing overnight, but over time you'll conquer any obstacles in your way as long as you keep playing. You don't have to play for hours every day, just 15 minutes a day will get your fingers thinking about the guitar, and [your playing will improve over night. ](http://trainingthemusicalbrain.blogspot.ca/2011/10/sleep-and-memory-consolidation.html)
 
 
 ##Play in little mini loops
